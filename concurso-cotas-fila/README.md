@@ -382,9 +382,9 @@ of this software and associated documentation files...
 
 ## 👤 Autor
 
-**Gustavo**
+**Gustavo H Meireles**
 - DBA Oracle
-- Especialista em Sistemas de Gestão
+- gustavohmeireles@gmail.com
 
 ---
 
@@ -406,5 +406,3 @@ of this software and associated documentation files...
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela no GitHub!
-
-**Desenvolvido com ❤️ para processos seletivos mais justos e transparentes**
